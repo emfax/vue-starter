@@ -1,0 +1,13 @@
+{
+  "rules": {
+    "eol-last": "warn",
+    "indent": ["warn", 2],
+    "comma-dangle": ["warn", {
+      "arrays": "always",
+      "objects": "always",
+      "imports": "always",
+      "exports": "always",
+      "functions": "always"
+    }]
+  }
+}
